@@ -19,11 +19,6 @@ CGameEntitySystem* GameEntitySystem()
     return g_pUtils->GetCGameEntitySystem();
 }
 
-CCSGameRules* IUtilsApi::GetCCSGameRules()
-{
-    return g_pGameRules;
-}
-
 void StartupServer()
 {
     g_pGameEntitySystem = GameEntitySystem();
