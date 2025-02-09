@@ -8,7 +8,6 @@ PLUGIN_EXPOSE(OfficialDSStatus, g_OfficialDSStatus);
 
 IVEngineServer2* engine = nullptr;
 CGameEntitySystem* g_pGameEntitySystem = nullptr;
-CCSGameRules* g_pGameRules = nullptr;
 CEntitySystem* g_pEntitySystem = nullptr;
 CGlobalVars* gpGlobals = nullptr;
 
