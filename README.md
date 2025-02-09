@@ -1,3 +1,5 @@
+![GitHub all releases](https://img.shields.io/github/downloads/ABKAM2023/OfficialDSStatus/total?style=for-the-badge)
+
 **OfficialDSStatus** - изменяет статус вашего сервера на "Official DS". Он также добавляет возможность подключения к вашему серверу через список друзей в лобби игры.
 
 ## Важно:
